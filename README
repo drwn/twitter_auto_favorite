@@ -2,16 +2,16 @@ requires ruby => 1.9 and the rubygem `twitter'
 
 to install ruby => 1.9 on debian:
 
-```apt-get install ruby1.9```
+apt-get install ruby1.9
 
 to install the rubygem `twitter' you'll have to install rubygems first:
 
-```apt-get install rubygems```
+apt-get install rubygems
 
 and then:
 
-```gem update``` 
+gem update
 
-```gem install twitter```
+gem install twitter
 
 
